@@ -40,3 +40,6 @@ p{
     position: fixed;
     bottom: 5px;
 }
+#result{
+    color: #06e7fc;
+}
