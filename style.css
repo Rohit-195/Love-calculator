@@ -10,7 +10,7 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
 }
-div{
+.container{
     margin-left: 25px;
 }
 img{
